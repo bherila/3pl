@@ -1,0 +1,9 @@
+/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/bin/Debug/netstandard1.3/ProNimbusAPI.Standard.deps.json
+/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/bin/Debug/netstandard1.3/ProNimbusAPI.Standard.dll
+/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/bin/Debug/netstandard1.3/ProNimbusAPI.Standard.pdb
+/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/obj/Debug/netstandard1.3/ProNimbusAPI.Standard.csprojAssemblyReference.cache
+/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/obj/Debug/netstandard1.3/ProNimbusAPI.Standard.csproj.CoreCompileInputs.cache
+/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/obj/Debug/netstandard1.3/ProNimbusAPI.Standard.AssemblyInfoInputs.cache
+/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/obj/Debug/netstandard1.3/ProNimbusAPI.Standard.AssemblyInfo.cs
+/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/obj/Debug/netstandard1.3/ProNimbusAPI.Standard.dll
+/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/obj/Debug/netstandard1.3/ProNimbusAPI.Standard.pdb

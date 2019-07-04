@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/ProNimbusAPI.Standard.csproj": {}
+  },
+  "projects": {
+    "/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/ProNimbusAPI.Standard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/ProNimbusAPI.Standard.csproj",
+        "projectName": "ProNimbusAPI.Standard",
+        "projectPath": "/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/ProNimbusAPI.Standard.csproj",
+        "packagesPath": "/Users/ben/.nuget/packages/",
+        "outputPath": "/Users/ben/Downloads/ProNimbus API-CS_NET_STANDARD_LIB/ProNimbusAPI.Standard/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ben/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.3"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.3": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.3": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
